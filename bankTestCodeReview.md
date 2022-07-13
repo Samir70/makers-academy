@@ -49,7 +49,7 @@ Which doesn't tell me much about what has happened, but it is the default behavi
 ```
 That didn't help. It is also the default behaviour.
 
-If I am in the IRB and investigating how my class is working, I need some way of seeing what the class is. My only option here is the .statement method. This class isn't too big, so maybe that is sufficient in this case. But can you tell me how you would change both of those default behaviours?
+If I am in the IRB and investigating how my class is working, I need some way of seeing the state of the class. My only option here is the .statement method. This class isn't too big, so maybe that is sufficient in this case. But can you tell me how you would change both of those default behaviours?
 
 ## coding style 2
 Why is the Statement class named that way? It doesn't provide the whole statement. It provides only one transaction which will appear on a statement. 
